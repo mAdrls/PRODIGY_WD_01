@@ -1,6 +1,3 @@
-# PRODIGY_WD_01
-Internship Project Task 1.
-
 # Responsive Landing Page 🚀  
 
 This is a **responsive landing page** with an **interactive navigation menu**, built as part of my internship at **Prodigy InfoTech**. The page adapts to different screen sizes and includes smooth scrolling effects.  
