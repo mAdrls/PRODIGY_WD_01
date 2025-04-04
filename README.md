@@ -5,7 +5,7 @@ This is a **responsive landing page** with an **interactive navigation menu**, b
 ## 🔹 Features  
 ✅ Fully responsive design (works on desktop, tablet, and mobile)  
 ✅ Fixed navigation bar with hover effects.  
-✅ Interactive menu that changes color on scroll  
+✅ Interactive menu that changes color on scroll.  
 ✅ Mobile-friendly hamburger menu 
 
 ## 🛠️ Technologies Used  
