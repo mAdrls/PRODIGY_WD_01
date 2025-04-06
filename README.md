@@ -3,7 +3,7 @@
 This is a **responsive landing page** with an **interactive navigation menu**, built as part of my internship at **Prodigy InfoTech**. The page adapts to different screen sizes and includes smooth scrolling effects.  
 
 ## 🔹 Features  
-✅ Fully responsive design (works on desktop, tablet, and mobile)  
+✅ Fully responsive design (works on desktop, tablet, and mobile). 
 ✅ Fixed navigation bar with hover effects.  
 ✅ Interactive menu that changes color on scroll.  
 ✅ Mobile-friendly hamburger menu. 
