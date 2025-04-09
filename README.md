@@ -9,7 +9,7 @@ This is a **responsive landing page** with an **interactive navigation menu**, b
 ✅ Mobile-friendly hamburger menu. 
 
 ## 🛠️ Technologies Used  
-- **HTML** for structure 
+- **HTML** for structure.
 - **CSS** for styling  
 - **JavaScript** for interactivity  
 
