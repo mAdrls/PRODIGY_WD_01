@@ -11,7 +11,7 @@ This is a **responsive landing page** with an **interactive navigation menu**, b
 ## 🛠️ Technologies Used  
 - **HTML** for structure.
 - **CSS** for styling.
-- **JavaScript** for interactivity  
+- **JavaScript** for interactivity.
 
 
 ## 📷 Screenshots  
