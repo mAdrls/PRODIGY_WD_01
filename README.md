@@ -28,7 +28,7 @@ This is a **responsive landing page** with an **interactive navigation menu**, b
 
 
 ## 🚀 Live Demo  
-Check out the live demo: **[GitHub Pages Link](https://github.com/mAdrls/PRODIGY_WD_01.git)**  
+Check out the live demo: **[GitHub Pages Link](https://madrls.github.io/PRODIGY_WD_01/)**  
 
 ## 📌 How to Run Locally.  
 1. Clone this repository:  
